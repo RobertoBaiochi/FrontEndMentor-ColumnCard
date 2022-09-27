@@ -1,0 +1,79 @@
+.card {
+    padding: 5rem;
+
+    img {
+        margin-bottom: 2rem;
+    }
+
+    h1 {
+        font-family: 'Big Shoulders Display', cursive;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 4rem;
+        margin-bottom: 2rem;
+        color: hsl(0, 0%, 95%);
+    }
+
+    p {
+        font-family: 'Lexend Deca', sans-serif;
+        font-weight: 400;
+        font-size: 1.5rem;
+        margin-bottom: 6rem;
+        color: hsla(0, 0%, 100%, 0.75);
+    }
+
+    button {
+        font-family: 'Lexend Deca', sans-serif;
+        font-weight: 400;
+        border: none;
+        padding: 1rem 3rem;
+        border-radius: 2rem;
+        background-color: hsl(0, 0%, 95%);
+        cursor: pointer;
+        transition: .3s ease-in-out;
+
+        &:hover {
+            outline: 2px solid hsl(0, 0%, 95%);
+            background-color: transparent;
+        }
+
+    }
+}
+
+.card.orange {
+    background-color: hsl(31, 77%, 52%);
+    grid-area: 'sedans';
+
+    button {
+        color: hsl(31, 77%, 52%) ;
+
+        &:hover {
+            color: hsl(0, 0%, 95%);
+        }
+    }
+}
+.card.lightGreen {
+    background-color: hsl(184, 100%, 22%);
+    grid-area: 'suvs';
+
+    button {
+        color: hsl(184, 100%, 22%);
+
+        &:hover {
+            color: hsl(0, 0%, 95%);
+        }
+    }
+}
+
+.card.darkGreen {
+    background-color: hsl(179, 100%, 13%);
+    grid-area: 'luxury';
+
+    button {
+        color: hsl(179, 100%, 13%);
+
+        &:hover {
+            color: hsl(0, 0%, 95%);
+        }
+    }
+}

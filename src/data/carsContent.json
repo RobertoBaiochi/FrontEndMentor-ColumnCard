@@ -1,0 +1,24 @@
+
+[
+    {   
+        "id": 1,
+        "title": "Sedans",
+        "image": "images/sedans.svg",
+        "text": "Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.",
+        "color": "orange"
+    },
+    {   
+        "id": 2, 
+        "title": "SUVs",
+        "image": "images/suvs.svg",
+        "text": "Take an SUV for its spacious interior, power, and versatility. Perfect for your next family vacation and off-road adventures.",
+        "color": "lightGreen"
+    },
+    {
+        "id": 3,
+        "title": "Luxury",
+        "image": "images/luxury.svg",
+        "text": "Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.",
+        "color": "darkGreen"
+    }
+]
