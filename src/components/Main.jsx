@@ -1,11 +1,12 @@
 import Card from '../layout/Card'
 import './Main.scss'
 
-
-export default props => {
-    return (
+function Main() {
+    return ( 
         <main className="container">
             <Card />
         </main>
-    )
+     );
 }
+
+export default Main;
