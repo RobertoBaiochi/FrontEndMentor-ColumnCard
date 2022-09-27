@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/FrontEndMentor-ColumnCard/static/css/main.13bce0d5.css",
+    "main.css": "/FrontEndMentor-ColumnCard/static/css/main.4d083990.css",
     "main.js": "/FrontEndMentor-ColumnCard/static/js/main.7263ccd4.js",
     "index.html": "/FrontEndMentor-ColumnCard/index.html",
-    "main.13bce0d5.css.map": "/FrontEndMentor-ColumnCard/static/css/main.13bce0d5.css.map",
+    "main.4d083990.css.map": "/FrontEndMentor-ColumnCard/static/css/main.4d083990.css.map",
     "main.7263ccd4.js.map": "/FrontEndMentor-ColumnCard/static/js/main.7263ccd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.13bce0d5.css",
+    "static/css/main.4d083990.css",
     "static/js/main.7263ccd4.js"
   ]
 }
